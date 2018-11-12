@@ -1,5 +1,5 @@
 ## code your solution here.
-def class Cat
+class Cat
   attr_accessor :name
   def meow
     puts “meow!” # Instance Method, a particular baby is able to cry
